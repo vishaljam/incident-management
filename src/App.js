@@ -1,6 +1,11 @@
 import logo from './logo.svg';
 import './App.css';
 
+import React from "react";
+import { Routes, Route } from "react-router-dom";
+// import Home from "./pages/Home";
+// import NextPage from "./pages/NextPage";
+
 function App() {
   return (
     <div className="App">
