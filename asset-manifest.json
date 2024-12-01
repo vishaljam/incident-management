@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/incident-management/static/css/main.f855e6bc.css",
-    "main.js": "/incident-management/static/js/main.91ec8a42.js",
+    "main.js": "/incident-management/static/js/main.69550f8f.js",
     "static/js/453.74015264.chunk.js": "/incident-management/static/js/453.74015264.chunk.js",
     "static/media/logo.svg": "/incident-management/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/incident-management/index.html",
     "main.f855e6bc.css.map": "/incident-management/static/css/main.f855e6bc.css.map",
-    "main.91ec8a42.js.map": "/incident-management/static/js/main.91ec8a42.js.map",
+    "main.69550f8f.js.map": "/incident-management/static/js/main.69550f8f.js.map",
     "453.74015264.chunk.js.map": "/incident-management/static/js/453.74015264.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.91ec8a42.js"
+    "static/js/main.69550f8f.js"
   ]
 }
