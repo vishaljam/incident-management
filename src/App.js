@@ -15,7 +15,7 @@ function App() {
   return (
 
     <Routes>
-      <Route path="/" element={<Home />} />
+      <Route path="/incident-management" element={<Home />} />
       <Route path="/incident-image" element={<IncidentImage />} />
       <Route path="/incident-location" element={<IncidentLocation />} />
       <Route path="/incident-type" element={<IncidentType />} />
